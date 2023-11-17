@@ -1,6 +1,6 @@
 primary:
   - text: About this guide
-    href: /
+    href: /about
     name: about
   - text: Our approach
     href: /workflow/
@@ -17,7 +17,7 @@ primary:
 
 about:
   - text: About this guide
-    href: /
+    href: /about
   - text: License
     href: /license/
   - text: Resources
@@ -32,12 +32,16 @@ approach:
     href: /code-review/
   - text: Development Environments
     href: /development-environments/
+  - text: On-Call
+    href: /on-call/
   - text: Incident Reports
     href: /incident-reports/
   - text: Architecture Reviews
     href: /architecture-reviews/
   - text: Front-End Disciplines
     href: /frontend/
+  - text: APIs
+    href: /apis/
   - text: Release Strategies
     href: /release-strategies/
   - text: Example Workflows
@@ -54,6 +58,8 @@ tools:
     href: /docker/
   - text: Browser Testing
     href: /browser-testing/
+  - text: Automated Testing
+    href: /tests/
   - text: Accessibility Scanning
     href: /accessibility-scanning/
   - text: Continuous Deployment
@@ -64,6 +70,8 @@ tools:
     href: /web-architecture/
   - text: SharePoint Primer
     href: /sharepoint/
+  - text: Books we've read
+    href: /books-we-have-read/
 
 languages:
   - text: Languages & Runtimes
